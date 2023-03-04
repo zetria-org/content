@@ -2,13 +2,21 @@
 
 ## 🦄 後端使用
  
+學呀的後臺伺服器使用 Django 和其生態系中的一些其他專案：
+
 - [django](https://github.com/django/django)
 - [django-cors-headers](https://github.com/adamchainz/django-cors-headers)
 - [django-crontab](https://github.com/kraiz/django-crontab)
 - [django-rest-framework](https://github.com/encode/django-rest-framework)
+
+學呀的搜尋演算法使用 Jieba 中文斷字系統和 Pytorch 機器學習函式庫以進行自然語言處理：
+
 - [jieba](https://github.com/fxsjy/jieba)
-- [next.js](https://github.com/vercel/next.js/)
 - [pytorch](https://github.com/pytorch/pytorch)
+
+學呀的網頁使用 Next JS 進行混合式的頁面生成：
+
+- [next.js](https://github.com/vercel/next.js/)
 
 ## 🖥️ 前端使用
 
