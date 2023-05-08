@@ -25,7 +25,6 @@
 學呀的網頁使用 Next JS 進行混合式的頁面生成：
 
 - [next.js](https://github.com/vercel/next.js/)
-- [react](https://github.com/facebook/react)
 
 ## 🖥️ 前端使用
 
@@ -35,4 +34,5 @@
 - [markdown-it-container](https://github.com/markdown-it/markdown-it-container)
 - [markdown-it-katex](https://github.com/waylonflinn/markdown-it-katex)
 - [next.js](https://github.com/vercel/next.js/)
+- [react](https://github.com/facebook/react)
 - [remixicon](https://github.com/Remix-Design/remixicon)
