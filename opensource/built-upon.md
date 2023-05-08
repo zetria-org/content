@@ -14,9 +14,18 @@
 - [jieba](https://github.com/fxsjy/jieba)
 - [pytorch](https://github.com/pytorch/pytorch)
 
+學呀使用預先訓練完成的文字模型：
+
+- [smaller-LaBSE](https://huggingface.co/setu4993/smaller-LaBSE)
+
+學呀使用 Open AI 的介接 client：
+
+- [openai-python](https://github.com/openai/openai-python)
+
 學呀的網頁使用 Next JS 進行混合式的頁面生成：
 
 - [next.js](https://github.com/vercel/next.js/)
+- [react](https://github.com/facebook/react)
 
 ## 🖥️ 前端使用
 
